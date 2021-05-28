@@ -2,6 +2,8 @@
 Check Naver blog challenge process
 
 ## How to Use
-download dist\BlogChallengeChecker.exe \n
-and double click it \n
-insert your Naver ID \n 
+download dist\BlogChallengeChecker.exe 
+
+and double click it 
+
+insert your Naver ID 
